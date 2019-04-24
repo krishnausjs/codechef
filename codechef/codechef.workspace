@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="codechef" Database="" Version="10.0.0">
+  <Project Name="MAXREM" Path="Apr_2019/Apr_2019.project" Active="No"/>
+  <Project Name="BSTOPS" Path="BSTOPS/BSTOPS.project" Active="No"/>
+  <Project Name="MAXREM_cc" Path="MAXREM_cc/MAXREM_cc.project" Active="No"/>
+  <Project Name="CHNUM" Path="CHNUM/CHNUM.project" Active="No"/>
+  <Project Name="CHNUM_CPP_CC" Path="CHNUM_CPP_CC/CHNUM_CPP_CC.project" Active="No"/>
+  <Project Name="CHNUM_C_CC" Path="CHNUM_C_CC/CHNUM_C_CC.project" Active="No"/>
+  <Project Name="CHDIGER" Path="CHDIGER/CHDIGER.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MAXREM" ConfigName="Debug"/>
+      <Project Name="BSTOPS" ConfigName="Debug"/>
+      <Project Name="MAXREM_cc" ConfigName="Debug"/>
+      <Project Name="CHNUM" ConfigName="Debug"/>
+      <Project Name="CHNUM_CPP_CC" ConfigName="Debug"/>
+      <Project Name="CHNUM_C_CC" ConfigName="Debug"/>
+      <Project Name="CHDIGER" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MAXREM" ConfigName="Release"/>
+      <Project Name="BSTOPS" ConfigName="Release"/>
+      <Project Name="MAXREM_cc" ConfigName="Release"/>
+      <Project Name="CHNUM" ConfigName="Release"/>
+      <Project Name="CHNUM_CPP_CC" ConfigName="Release"/>
+      <Project Name="CHNUM_C_CC" ConfigName="Release"/>
+      <Project Name="CHDIGER" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
